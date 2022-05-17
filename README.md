@@ -195,7 +195,7 @@ def astar_search(problem, h=None):
 ![exp](https://user-images.githubusercontent.com/75236145/168844640-b591e3e2-7422-4dd3-b43d-9cc53262c75e.png)<br>
 ![ai exp](https://user-images.githubusercontent.com/75236145/168844290-00421864-ddd6-473f-9f56-0c1e0f1fe986.png)
 Explain the Completeness and complexity of the algorithm:
-This algorithm is complete if it guarantees to return a correct answer for any arbitrary input (or, if no answer exists, it guarantees to return failure). The time complexity of A* depends on the heuristic.
+<br>This algorithm is complete if it guarantees to return a correct answer for any arbitrary input (or, if no answer exists, it guarantees to return failure). The time complexity of A* depends on the heuristic.
 
 ## RESULT:
 Therefore, the algorithm finds the best path to reach the final goal using Informed (Heuristic) Search Strategies.
