@@ -1,4 +1,6 @@
-# A* Path Finding Algorithm for 2D Grid World
+## EXP : 04
+## Date : 17.05.2022
+# <p align="center"> A* Path Finding Algorithm for 2D Grid World</p>
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -27,6 +29,10 @@ The algorithm finds the best optimal solution.
 ![ai exp 4](https://user-images.githubusercontent.com/75236145/168840525-16e67738-383b-4860-a48c-93d61fe24ad2.png)
 
 ## PROGRAM
+```python
+Developed by : SURYA R 
+Register no : 212220230052
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -194,7 +200,7 @@ def astar_search(problem, h=None):
 ## OUTPUT:
 ![exp](https://user-images.githubusercontent.com/75236145/168844640-b591e3e2-7422-4dd3-b43d-9cc53262c75e.png)<br>
 ![ai exp](https://user-images.githubusercontent.com/75236145/168844290-00421864-ddd6-473f-9f56-0c1e0f1fe986.png)
-Explain the Completeness and complexity of the algorithm:
+#### Explain the Completeness and complexity of the algorithm:
 <br>This algorithm is complete if it guarantees to return a correct answer for any arbitrary input (or, if no answer exists, it guarantees to return failure). The time complexity of A* depends on the heuristic.
 
 ## RESULT:
